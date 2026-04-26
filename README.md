@@ -10,7 +10,7 @@ Every time I start a new frontend project, I waste 20–30 minutes setting up a 
 
 ## Live Demo
 
-🔗 **[snapapi.dev](https://snapapi.dev)** *(coming soon)*
+🔗 **[snapapi-pi.vercel.app](https://snapapi-pi.vercel.app)** — Live Demo
 
 ## Features
 
@@ -34,7 +34,7 @@ Every time I start a new frontend project, I waste 20–30 minutes setting up a 
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/snapapi
+git clone https://github.com/Matt-10z/snapapi
 cd snapapi
 npm install
 npm run dev
@@ -54,8 +54,8 @@ Open [http://localhost:3000](http://localhost:3000)
 
 All mock APIs are served under:
 ```
-https://snapapi.dev/mock/{resource}
-https://snapapi.dev/mock/{resource}/:id
+https://snapapi-pi.vercel.app/mock/{resource}
+https://snapapi-pi.vercel.app/mock/{resource}/:id
 ```
 
 Supported methods: `GET`, `POST`, `PUT`, `DELETE`
